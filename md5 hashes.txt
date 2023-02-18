@@ -1,0 +1,4 @@
+//md5 hashes for testing the project
+e10adc3949ba59abbe56e057f20f883e
+f25a2fc72690b780b2a14e140ef6a9e0
+a4f0fb36f33cc19e94281454f99ece0e
